@@ -34,11 +34,29 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+
 ```
   
 </div>
 
-![Snake animation](https://github.com/Vandit1121/Vandit1121/blob/output/github-contribution-grid-snake.svg)
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
+
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vandit1121&show_icons=true&theme=merko">
+
+
 <!--
 **Vandit1121/Vandit1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
