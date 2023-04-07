@@ -3,8 +3,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+<div align="center">
 <a href="#"><img height="50" src="https://user-images.githubusercontent.com/90323801/230655586-246e2739-ce19-4182-8cd6-ba6ec34c1597.png">
 </a>
+  <a href="#"><img height="50" src="https://user-images.githubusercontent.com/90323801/230655978-7a7ab1e4-5500-4172-9568-252343ba4f15.png">
+</a>
+  </div>
 <!--
 **Vandit1121/Vandit1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
