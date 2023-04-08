@@ -104,7 +104,7 @@
 
  
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/Vandit1121/Vandit1121/snake/github-contribution-grid-snake-dark.svg" width="100%"> 
+<img src="https://github.com/Vandit1121/Vandit1121/blob/output/github-contribution-grid-snake.svg" width="100%"> 
   
 <!--
 **Vandit1121/Vandit1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
